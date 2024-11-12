@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakThinks (Shakil's Personal Github Bot)
-- 👀 I’m interested in CV, NLP. 
-- 🌱 I’m currently learning DevOps. Docker, Swe.
+- 👀 I’m interested in Image Processing, Software Engineering, DevOps, DevSecOps, Blockchain.
+- - 🌱 I’m currently learning DevOps. Docker, Swe.
 - 💞️ I’m looking to collaborate on Docker
 - 📫 How to reach me: Email: ( ahmedmshakil1@gmail.com )
 - 😄 Pronouns: he/him
